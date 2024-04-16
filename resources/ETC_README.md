@@ -6,6 +6,10 @@ network.
 
 Please refer to http://docs.casperlabs.io for information on how to run a node.
 
+# node_util.py
+
+Many of the below commands can be done with the`/etc/casper/node_util.py`.  Run this with no argument to show possible commands.
+
 ## systemd
 
 The deb package installs casper-node-launcher service unit for systemd.  If you are unfamiliar with systemd,
